@@ -11,6 +11,7 @@ venv
 *.egg-info
 pip-wheel-metadata
 dist
+build
 
 # Documentation and coverage
 docs/_build
